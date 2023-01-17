@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Women in HPC 
+title: Home 
 ---
 
 ### Despite numerous initiatives towards combating gender inequalities, women only occupy approximately 25% of research positions in science and engineering.
