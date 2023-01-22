@@ -89,7 +89,6 @@ GEM
     http_parser.rb (0.8.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    j1-template (2021.0.1)
     jekyll (3.9.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -258,7 +257,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb
-  j1-template
   jekyll-feed
   tzinfo
   tzinfo-data
