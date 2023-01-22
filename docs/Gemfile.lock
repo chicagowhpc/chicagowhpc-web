@@ -257,6 +257,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb
+  jekyll (~> 3.9)
   jekyll-feed
   tzinfo
   tzinfo-data
