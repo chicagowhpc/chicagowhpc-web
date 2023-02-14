@@ -12,4 +12,3 @@ We help our participants build a professional network by offering training, work
 
 ## Chicago WHPC Team
 
-## Chicago WHPC Membership
