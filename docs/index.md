@@ -4,6 +4,7 @@
 
 layout: page
 title: Home 
+permalink: /index
 ---
 
 ### Despite numerous initiatives towards combating gender inequalities, women only occupy approximately 25% of research positions in science and engineering.
