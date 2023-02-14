@@ -21,9 +21,10 @@
 title: Chicago Women in HPC
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Chicago Women in HPC mission is to create an all inclusive community of women 
+  in high-performance computing in the midwest region and serve a role of a central 
+  hub for involvement, education, and support to current and future students as well 
+  as aspiring professionals.
 baseurl: /chicagowhpc-web/
 url: https://chicagowhpc.github.io/
 twitter_username: jekyllrb
