@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bylaws
-permalink: /about/bylaws.md
+permalink: /about/bylaws/
 ---
 
 **Article 1. Name and Scope**
